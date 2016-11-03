@@ -94,7 +94,13 @@
         <github> k4le0</github>
         <group> KrZZIs3011Io</group>
 </student>
-
+<student>
+	<firstname> Marcin</firstname>
+	<lastname> Gajda</lastname>
+	<email> marcin.gajda36@gmail.com</email>
+	<github> MarcinGajda36</github>
+	<group> KrDZIs3011Io</group>
+</student>
 
 
 </students>
